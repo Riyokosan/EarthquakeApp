@@ -17,6 +17,7 @@ public class Earthquake {
 
     private String mUrl;
 
+
     /**
      * Create a new Earthquake object.
      *
